@@ -27,6 +27,7 @@ class InstanceRepository
         'ContentType',
         'Environment',
         'Space',
+        'Entry',
     ];
 
     /**
