@@ -28,6 +28,7 @@ class InstanceRepository
         'Environment',
         'Space',
         'Entry',
+        'Asset'
     ];
 
     /**
